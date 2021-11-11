@@ -97,10 +97,13 @@ h2{
 
 #contacto{
     font-size: 20px;
-    font-weight: 700;
     text-align: center;
     background-color: #005677;
     color:seashell;
+}
+
+#nombre{
+    font-weight: 700;
 }
 
 .pie-de-pagina{
